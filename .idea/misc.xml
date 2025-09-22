@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (SPE Challange)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.2 (sftp://yeti@10.122.192.189:22/home/yeti/.virtualenvs/SPE Challange/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.2 (sftp://yeti@10.122.192.189:22/usr/bin/python3)" project-jdk-type="Python SDK" />
 </project>
